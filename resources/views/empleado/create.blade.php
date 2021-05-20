@@ -10,7 +10,7 @@
 <label for="ApellidoMaterno">Apellido Materno</label>
 <input type="text" name="ApellidoMaterno">
 <br>
-<label for="Correo">Correo</label>
+<label for="Correo">Correosssssss</label>
 <input type="text" name="Correo" id="Correo">
 <br>
 <label for="Foto">Foto</label>
